@@ -17,6 +17,12 @@ Mobile
 
 ![](img/Mobile.jpeg.jpeg)
 
+## Tecnologias
 
-# Autor
+* HTML
+* Tailwindcss
+
+## Autor
+
+[Milla Rgeina](https://www.linkedin.com/in/milla-regina-468020206)
 
