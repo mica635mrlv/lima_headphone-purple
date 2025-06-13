@@ -26,17 +26,17 @@ Na segunda etapa, foi necessário codificar o site responsivo utilizando o frame
 
 ## Screenshots das versões desktop, tablet e mobile
 
-#Desktop - largura: 1440px.
+Desktop - largura: 1440px.
 
 ![](./img/Desktop.jpeg)
 
-#Tablet - largura: 768px.
+Tablet - largura: 768px.
 
-![](./img/Tablet.jpeg.jpeg)
+![](./img/Tablet.jpeg)
 
-#Mobile - largura: 320px.
+Mobile - largura: 320px.
 
-![](./img/Mobile.jpeg.jpeg.jpeg)
+![](./img/Mobile.jpeg)
 
 ## Tecnologias
 
