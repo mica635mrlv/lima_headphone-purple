@@ -2,7 +2,11 @@
 
 #Descrição do Projeto
 
-Este projeto foi uma atividade de avaliação da disciplina Linguagem de Marcação no curso do SENAI Jandira. O objetivo era criar um site responsivo a partir de um layout desktop fornecido. A primeira etapa consistiu em prototipar as versões de tablet e mobile no Figma, adaptando os elementos, a hierarquia visual e a experiência do usuário para telas menores. Na segunda etapa, foi necessário codificar o site responsivo utilizando o framework Tailwind CSS, garantindo que as três versões (desktop, tablet e mobile) funcionassem perfeitamente em diferentes tamanhos de tela.
+Este projeto foi uma atividade de avaliação da disciplina Linguagem de Marcação no curso do SENAI Jandira. 
+
+O objetivo era criar um site responsivo a partir de um layout desktop fornecido. A primeira etapa consistiu em prototipar as versões de tablet e mobile no Figma, adaptando os elementos, a hierarquia visual e a experiência do usuário para telas menores. 
+
+Na segunda etapa, foi necessário codificar o site responsivo utilizando o framework Tailwind CSS, garantindo que as três versões (desktop, tablet e mobile) funcionassem perfeitamente em diferentes tamanhos de tela.
 
 ## Como rodar o Projeto localmente
 
@@ -26,11 +30,11 @@ Este projeto foi uma atividade de avaliação da disciplina Linguagem de Marcaç
 
 #Desktop
 
-![]()
+
 
 #Tablet
 
-![](img/Tablet.jpeget.jpeg)
+![](
 
 #Mobile
 
