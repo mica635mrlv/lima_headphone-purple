@@ -1,7 +1,5 @@
 # HEADPHONE-PURPLE
 
-#Descrição do Projeto
-
 Este projeto foi uma atividade de avaliação da disciplina Linguagem de Marcação no curso do SENAI Jandira. 
 
 O objetivo era criar um site responsivo a partir de um layout desktop fornecido. A primeira etapa consistiu em prototipar as versões de tablet e mobile no Figma, adaptando os elementos, a hierarquia visual e a experiência do usuário para telas menores. 
@@ -12,7 +10,7 @@ Na segunda etapa, foi necessário codificar o site responsivo utilizando o frame
 
 1. Clone o repositório, usando: 
 
-    git clone https://github.com/mica635mrlv/lima_headphone-purple.git
+        git clone https://github.com/mica635mrlv/lima_headphone-purple.git
 
 2. Navegue até o diretório do projeto: 
     
@@ -28,17 +26,17 @@ Na segunda etapa, foi necessário codificar o site responsivo utilizando o frame
 
 ## Screenshots das versões desktop, tablet e mobile
 
-#Desktop
+#Desktop - largura: 1440px.
 
+![](./img/Desktop.jpeg)
 
+#Tablet - largura: 768px.
 
-#Tablet
+![](./img/Tablet.jpeg.jpeg)
 
-![](
+#Mobile - largura: 320px.
 
-#Mobile
-
-![](img/Mobile.jpeg.jpeg)
+![](./img/Mobile.jpeg.jpeg.jpeg)
 
 ## Tecnologias
 
