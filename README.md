@@ -11,16 +11,16 @@ Este projeto foi uma atividade de avaliação da disciplina Linguagem de Marcaç
     git clone https://github.com/mica635mrlv/lima_headphone-purple.git
 
 2. Navegue até o diretório do projeto: 
-
-    cd lima_headphone-purple
+    
+        cd lima_headphone-purple
 
 3. Crie um arquivo index.html (ou use o que já está no projeto):
 
-    No <head>, adicione o script do Tailwind CSS via CDN: <script src="https://cdn.tailwindcss.com"></script>
+        Na tag head, adicione o script do Tailwind CSS via CDN: <script src="https://cdn.tailwindcss.com"></script>
 
 4. Abra o arquivo HTML no navegador:
 
-    Não precisa de servidor ou configurações adicionais. Abra o arquivo .html diretamente no seu navegador.
+        Não precisa de servidor ou configurações adicionais. Abra o arquivo .html diretamente no seu navegador.
 
 ## Screenshots das versões desktop, tablet e mobile
 
